@@ -1,1 +1,1 @@
-# Amigo_Oculto
+# Código do jogo Amigo Oculto
